@@ -2,7 +2,9 @@ Name : Bryan
 
 Student ID : 23623011 (Aerospace Engineering)
 
-Course : Digital Image Processing
+Course : Digital Image Processing (IF4073)
+
+
 
 Task 1 : Basic Image Enhancement in spatial domain
 
